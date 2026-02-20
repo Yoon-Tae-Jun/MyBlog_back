@@ -1,0 +1,43 @@
+{
+  "database": {
+    "논문": {
+      "db_id": "2206601c5e9380088f08c5d91c57fa1d",
+      "attribute": [
+        "paperName",
+        "author",
+        "conferenceName",
+        "date",
+        "file"
+      ]
+    },
+    "수상경력": {
+      "db_id": "2206601c5e93800dbd1adf3f129ef8a2",
+      "attribute": [
+        "contestName",
+        "awardType",
+        "date"
+      ]
+    },
+    "자격증": {
+      "db_id": "2226601c5e93804bb1d3d0e7bc0f5159",
+      "attribute": [
+        "CertificationName",
+        "date"
+      ]
+    },
+    "프로젝트": {
+      "db_id": "2b56601c5e93801fbbe1ccefda4b49cf",
+      "attribute": [
+        "ProjectName",
+        "description",
+        "tag",
+        "status"
+      ]
+    }
+  },
+  "page": {
+    "소개": {
+      "page_id": "2ba6601c5e93803b8a92d3caa51dea7c"
+    }
+  }
+}
