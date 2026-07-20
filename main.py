@@ -35,7 +35,7 @@ class NotionLoader():
         data = res.json()
         return data
 
-    def parseData(self, data, attr):
+    def parseData(self, db_name, data, attr):
         """metadata.json의 attribute 목록 기준으로 DB row 파싱"""
         parse_data = {}
         for idx, result in enumerate(data["results"]):
@@ -59,6 +59,16 @@ class NotionLoader():
                         row_data[p] = prop[0].get("plain_text", "")
                     else:
                         row_data[p] = ""
+            
+            # "프로젝트" DB의 경우 하위 블록(페이지 내용)도 함께 가져옴
+            if db_name == "프로젝트":
+                try:
+                    blocks = self.build_page_json(result["id"])
+                    row_data["blocks"] = blocks
+                except Exception as e:
+                    print(f"[경고] 프로젝트 상세 로드 중 오류 발생: {e}")
+                    row_data["blocks"] = []
+                    
             parse_data[idx] = row_data
         return parse_data
 
@@ -153,7 +163,25 @@ class NotionLoader():
             # presigned URL 맨 끝에서 파일 이름만 추출
             # 예: .../내사진.jpg?X-Amz-...  ->  "내사진.jpg"
             last_part = url.split("/")[-1]
-            filename = last_part.split("?")[0]
+            original_filename = last_part.split("?")[0]
+            
+            # 파일이름이 겹쳐서 덮어써지는 문제 해결을 위해 고유 ID 추가
+            filename = f"{block['id']}_{original_filename}"
+
+            # 이미지 다운로드 로컬 경로 (front/public/page_img)
+            img_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "front", "public", "page_img")
+            os.makedirs(img_dir, exist_ok=True)
+            img_path = os.path.join(img_dir, filename)
+
+            try:
+                # 파일이 존재하지 않는 경우에만 다운로드 (성능 최적화)
+                if not os.path.exists(img_path):
+                    img_data = requests.get(url).content
+                    with open(img_path, 'wb') as f:
+                        f.write(img_data)
+                    print(f"이미지 다운로드 완료: {filename}")
+            except Exception as e:
+                print(f"이미지 다운로드 실패: {filename}, 에러: {e}")
 
             simple["image"] = {
                 "name": filename,          # ✅ JSON에는 파일 이름만 저장
@@ -218,7 +246,7 @@ class NotionLoader():
         for name, info in self.metadata["database"].items():
             try:
                 d = self.readDatabase(info["db_id"], self.headers)
-                parse_data[name] = self.parseData(d, info["attribute"])
+                parse_data[name] = self.parseData(name, d, info["attribute"])
             except Exception as e:
                 print(f"[경고] DB '{name}' 로드 중 오류 발생: {e}")
                 parse_data[name] = {}

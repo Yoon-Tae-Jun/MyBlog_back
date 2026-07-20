@@ -1,81 +1,6 @@
 {
   "논문": {
     "0": {
-      "paperName": "투명 페트병 분리를 위한 Hailo-8 기반 경량 객체 검출 시스템",
-      "author": [
-        "윤태준",
-        "정윤희",
-        "이소연",
-        "김대영"
-      ],
-      "conferenceName": "2025 대한전자공학회 하계학술대회",
-      "date": "2025.06.24(화)-27(금)",
-      "file": "투명 페트병 분리를 위한 Hailo-8기반 경량 객체 검출 시스템(submit).pdf"
-    },
-    "1": {
-      "paperName": "공공데이터를 이용한 실시간 셔틀버스 정보 서비스",
-      "author": [
-        "윤태준",
-        "이소연",
-        "박지훈",
-        "김민승",
-        "김대영"
-      ],
-      "conferenceName": "2022 ICT플랫폼학회 추계학술대회",
-      "date": "2022.12.08(목)",
-      "file": "공공데이터를 이용한 실시간 셔틀버스 정보 서비스.pdf"
-    },
-    "2": {
-      "paperName": "C-ITS 통신 시스템에서의 Semantic Segmentation 기반 교통정체 상황 판단 알고리즘",
-      "author": [
-        "이소연",
-        "박지훈",
-        "윤태준",
-        "김대영"
-      ],
-      "conferenceName": "2022 한국인터넷정보학회 춘계학술발표대회",
-      "date": "2022.04.29(금)-30(토)",
-      "file": "[KSII] C-ITS 통신 시스템에서의 Semantic Segmentation 기반 교통정체 상황 판단 알고리즘(최종).pdf"
-    },
-    "3": {
-      "paperName": "YOLOv7 기반 순환 가능한 PET 분류 시스템",
-      "author": [
-        "김민승",
-        "이소연",
-        "배민지",
-        "윤태준",
-        "김대영"
-      ],
-      "conferenceName": "2022 한국정보처리학회 추계학술대회",
-      "date": "2022.11.03(목)-05(토)",
-      "file": "YOLOv7 기반 순환 가능한 PET 분류시스템.pdf"
-    },
-    "4": {
-      "paperName": "Semantic Segmentation 기반 실시간 교통 혼잡 판단 시스템",
-      "author": [
-        "배민지",
-        "윤태준",
-        "이소연",
-        "김대영"
-      ],
-      "conferenceName": "2022년도 한국통신학회 동계종합학술발표회",
-      "date": "2022.02.09(수)-11(금)",
-      "file": "Semantic Segmentation 기반 실시간 교통 혼잡 판단 시스템.pdf"
-    },
-    "5": {
-      "paperName": "의미론적 분할을 이용한 스마트 팩토리 제품 불량 검출 시스템",
-      "author": [
-        "윤태준",
-        "강윤경",
-        "배민지",
-        "이소연",
-        "김대영"
-      ],
-      "conferenceName": "2022년도 한국인터넷정보학회 춘계학술발표대회",
-      "date": "2022.04.29(금)-30(토)",
-      "file": "의미론적 분할을 이용한 스마트 팩토리 제품 불량 검출 시스템.pdf"
-    },
-    "6": {
       "paperName": "딥러닝 기술을 활용한 얼굴 인식 도어락 시스템",
       "author": [
         "강윤경",
@@ -88,7 +13,44 @@
       "date": "2021.10.22(금)-24(일)",
       "file": "딥러닝 기술을 활용한 얼굴 인식 도어락 시스템.pdf"
     },
-    "7": {
+    "1": {
+      "paperName": "Semantic Segmentation 기반 실시간 교통 혼잡 판단 시스템",
+      "author": [
+        "배민지",
+        "윤태준",
+        "이소연",
+        "김대영"
+      ],
+      "conferenceName": "2022년도 한국통신학회 동계종합학술발표회",
+      "date": "2022.02.09(수)-11(금)",
+      "file": "Semantic Segmentation 기반 실시간 교통 혼잡 판단 시스템.pdf"
+    },
+    "2": {
+      "paperName": "의미론적 분할을 이용한 스마트 팩토리 제품 불량 검출 시스템",
+      "author": [
+        "윤태준",
+        "강윤경",
+        "배민지",
+        "이소연",
+        "김대영"
+      ],
+      "conferenceName": "2022년도 한국인터넷정보학회 춘계학술발표대회",
+      "date": "2022.04.29(금)-30(토)",
+      "file": "의미론적 분할을 이용한 스마트 팩토리 제품 불량 검출 시스템.pdf"
+    },
+    "3": {
+      "paperName": "C-ITS 통신 시스템에서의 Semantic Segmentation 기반 교통정체 상황 판단 알고리즘",
+      "author": [
+        "이소연",
+        "박지훈",
+        "윤태준",
+        "김대영"
+      ],
+      "conferenceName": "2022 한국인터넷정보학회 춘계학술발표대회",
+      "date": "2022.04.29(금)-30(토)",
+      "file": "[KSII] C-ITS 통신 시스템에서의 Semantic Segmentation 기반 교통정체 상황 판단 알고리즘(최종).pdf"
+    },
+    "4": {
       "paperName": "Dataset construction method for network intelligence",
       "author": [
         "SoYeon Lee",
@@ -100,6 +62,44 @@
       "conferenceName": "The 17th AsiaPacific International Conference on Information Science and Technology (APIC-IST 2022)",
       "date": "2022.06.19(일)-21(화)",
       "file": "Proceedings_of_APIC-IST_2022-66-68.pdf"
+    },
+    "5": {
+      "paperName": "YOLOv7 기반 순환 가능한 PET 분류 시스템",
+      "author": [
+        "김민승",
+        "이소연",
+        "배민지",
+        "윤태준",
+        "김대영"
+      ],
+      "conferenceName": "2022 한국정보처리학회 추계학술대회",
+      "date": "2022.11.03(목)-05(토)",
+      "file": "YOLOv7 기반 순환 가능한 PET 분류시스템.pdf"
+    },
+    "6": {
+      "paperName": "공공데이터를 이용한 실시간 셔틀버스 정보 서비스",
+      "author": [
+        "윤태준",
+        "이소연",
+        "박지훈",
+        "김민승",
+        "김대영"
+      ],
+      "conferenceName": "2022 ICT플랫폼학회 추계학술대회",
+      "date": "2022.12.08(목)",
+      "file": "공공데이터를 이용한 실시간 셔틀버스 정보 서비스.pdf"
+    },
+    "7": {
+      "paperName": "투명 페트병 분리를 위한 Hailo-8 기반 경량 객체 검출 시스템",
+      "author": [
+        "윤태준",
+        "정윤희",
+        "이소연",
+        "김대영"
+      ],
+      "conferenceName": "2025 대한전자공학회 하계학술대회",
+      "date": "2025.06.24(화)-27(금)",
+      "file": "투명 페트병 분리를 위한 Hailo-8기반 경량 객체 검출 시스템(submit).pdf"
     },
     "8": {
       "paperName": "Performance Evaluation of Parallel Inference Pipeline for Multi-Model Processing on Edge Devices\n",
@@ -127,24 +127,24 @@
   },
   "수상경력": {
     "0": {
-      "contestName": "2022 SCH AI,SW Festival",
-      "awardType": "장려상",
-      "date": "2022.04.29(금)-30(토)"
-    },
-    "1": {
       "contestName": "자율배송 운행데이터 데이터톤 2021 AI모델개발부분",
       "awardType": "장려상",
       "date": "2021.12.18(토)"
     },
-    "2": {
-      "contestName": "메가시티 실전문제연구단 연합 경진대회",
-      "awardType": "동상",
-      "date": "2022.06.19(일)-21(화)"
-    },
-    "3": {
+    "1": {
       "contestName": "2022  순천향 SW경시대회",
       "awardType": "장려상",
       "date": "2022.11.10(목)"
+    },
+    "2": {
+      "contestName": "2022 SCH AI,SW Festival",
+      "awardType": "장려상",
+      "date": "2022.04.29(금)-30(토)"
+    },
+    "3": {
+      "contestName": "메가시티 실전문제연구단 연합 경진대회",
+      "awardType": "동상",
+      "date": "2022.06.19(일)-21(화)"
     },
     "4": {
       "contestName": "BLEP 데이터 활용 경진대회",
@@ -158,12 +158,12 @@
       "date": "2021.10"
     },
     "1": {
-      "CertificationName": "워드프로세서",
-      "date": "2024.11"
-    },
-    "2": {
       "CertificationName": "자동차운전면허(2종보통)",
       "date": "2022.07"
+    },
+    "2": {
+      "CertificationName": "워드프로세서",
+      "date": "2024.11"
     },
     "3": {
       "CertificationName": "비서3급",
@@ -172,34 +172,6 @@
   },
   "프로젝트": {
     "0": {
-      "ProjectName": "PET 분류 시스템",
-      "description": "임베디드 환경에서 캔, 플라스틱과 플라스틱의 구성요소를 분리하는 프로젝트 ",
-      "tag": [
-        "Edge AI",
-        "Object Detection",
-        "Hailo"
-      ],
-      "status": "Completed"
-    },
-    "1": {
-      "ProjectName": "얼굴 인식 도어락 시스템",
-      "description": "얼굴을 인식하여 도어락을 개폐하는 시스템",
-      "tag": [
-        "Edge AI",
-        "Object Detection"
-      ],
-      "status": "Completed"
-    },
-    "2": {
-      "ProjectName": "LabOps",
-      "description": "연구실에서 사용하기 위한 MLOps 플랫폼",
-      "tag": [
-        "MLOps",
-        "Web"
-      ],
-      "status": "In Progress"
-    },
-    "3": {
       "ProjectName": "Bus 프로젝트",
       "description": "지하철과 학교 셔틀버스 시간표를 연계하여 만든 웹사이트",
       "tag": [
@@ -207,7 +179,1165 @@
         "Backend",
         "Cloud"
       ],
-      "status": "Completed"
+      "status": "Completed",
+      "blocks": [
+        {
+          "id": "3426601c-5e93-802d-a0e9-d0f20cffd069",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Overview",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8094-9a9b-eaccb37f1541",
+          "type": "image",
+          "has_children": false,
+          "image": {
+            "name": "3426601c-5e93-8094-9a9b-eaccb37f1541_Untitled.png",
+            "source_type": "file",
+            "caption": []
+          }
+        },
+        {
+          "id": "3426601c-5e93-8041-88e9-cb31c6f650b1",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [
+              {
+                "plain_text": "순천향대학교 셔틀버스는 수도권 지하철 1호선 신창역 도착 시간과 연계되어 운행됩니다. 그러나 실시간으로 셔틀버스 도착 시간을 알 수 없어 불편함이 존재했습니다. 따라서 공공 데이터 API를 기반으로 신창역 열차 시간 정보와 셔틀버스 시간을 연계한 웹사이트를 개발했습니다.",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-808a-8b2f-c4ff41318712",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Content",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8087-aba3-c2597422eb3a",
+          "type": "heading_2",
+          "has_children": false,
+          "heading_2": {
+            "rich_text": [
+              {
+                "plain_text": "프로젝트 아키텍처",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80bc-9fbb-c3985d0dd71d",
+          "type": "image",
+          "has_children": false,
+          "image": {
+            "name": "3426601c-5e93-80bc-9fbb-c3985d0dd71d_Untitled.png",
+            "source_type": "file",
+            "caption": []
+          }
+        },
+        {
+          "id": "3426601c-5e93-80c5-be6b-f8b3b06b3655",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "1. Info Generator (Data Engineering Layer)",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80ca-bdcc-cdc8dfb4896f",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "기술 스택:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": " Flask, Public Data API, Naver Cloud Platform (NCP)",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-807a-99a6-f0788fc032e9",
+          "type": "bulleted_list_item",
+          "has_children": true,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "상세 역할:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": " 공공 데이터 포털 API를 통해 신창역 실시간 열차 정보를 주기적으로 Fetchin",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "id": "3426601c-5e93-80ce-95ba-e38dc53a8dab",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "데이터 매핑:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " 정적 데이터(셔틀 시간표)와 동적 데이터(지하철 도착 정보)를 결합하는 로직 수행",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "id": "3426601c-5e93-8092-a156-fb9170ef7153",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "Admin 관리:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " Flask 기반의 서버와 React 기반 Admin Web을 통해 관리자가 수동으로 셔틀 노선 및 시간표를 업데이트할 수 있는 인터페이스 제공",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3426601c-5e93-80fc-aeb0-d3e055063901",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "2. Server (Backend & Database Layer)",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80d7-be72-dc8f5b3468d5",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "기술 스택:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": " Spring Boot, MySQL (Amazon RDS), Amazon EC2",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-805a-afe7-f40136faa823",
+          "type": "bulleted_list_item",
+          "has_children": true,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "상세 역할:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "id": "3426601c-5e93-8032-a61f-e598d5ed9808",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "데이터 서빙:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " Info Generator에 의해 가공된 데이터를  Spring Boot 서버를 통해 클라이언트에 전달",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "id": "3426601c-5e93-806f-a6ea-ff397a816268",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "RDBMS 관리:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " Amazon RDS(MySQL)를 활용하여 데이터의 일관성을 유지",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3426601c-5e93-8063-92e9-dac5f77e0a99",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "3. Client (Frontend Layer)",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8072-b0ba-d05bfeafe2f1",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "기술 스택:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": " React, Amazon S3",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80da-b56b-fdf853129f65",
+          "type": "bulleted_list_item",
+          "has_children": true,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "상세 역할:",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          },
+          "children": [
+            {
+              "id": "3426601c-5e93-80ee-a4ee-d6c7fab37c9f",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "사용자 중심 UI:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " React를 활용하여 사용자에게 실시간성을 보장하는 반응형 웹 인터페이스 구현",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "id": "3426601c-5e93-806e-ae0e-fb53cb50a4b3",
+              "type": "bulleted_list_item",
+              "has_children": false,
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "plain_text": "최적화된 배포:",
+                    "href": null,
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  },
+                  {
+                    "plain_text": " S3 정적 웹 호스팅을 통해 빠르고 비용 효율적인 프론트엔드 환경 구축",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3426601c-5e93-803b-819a-d2f98ce8af32",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Review",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8017-82cd-c5479535edb9",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [
+              {
+                "plain_text": "학부 2학년 시기에 단독으로 진행하며, 아이디어 구상부터 실서비스 배포까지의 End-to-End 과정을 경험했습니다. 초기에는 기능 구현을 최우선 목표로 두었으나, 이 과정에서 ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "서버 간 데이터 흐름,  클라우드 자원의 전략적 활용법",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "을 깊이 있게 이해할 수 있었습니다. 특히 AWS와 NCP를 혼합 활용하며 클라우드 서비스별 특성과 비용 효율적인 아키텍처 설계에 대해 고민해 본 소중한 계기가 되었습니다.",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8047-98cb-ce1a9db35dda",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "1. 코드 구조 및 성능 관련",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80c9-ab93-c0ce4743ac8e",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "기능 구현에 중점을 두다 보니 코드의 재사용성이나 가독성이 낮았던 점이 아쉬웠습니다. 이후 진행한 프로젝트에서는 ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "디자인 패턴",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "을 적용하거나 ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "모듈화",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "를 통해 유지보수가 용이한 코드를 작성하려 노력하고 있습니다.",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80c8-8d9c-e437cbd39cac",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "2. 인프라 및 비용 관련",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80b7-81ff-d019bef16974",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "단순 비용 절감을 위해 AWS(User Server)와 NCP(Info Generator)를 혼합 사용했으나, 이를 통해 ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "멀티 클라우드 환경에서의 네트워크 통신",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "이나 ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "관리 포인트의 분산",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "이라는 Trade-off를 경험했습니다. 이는 서비스 규모에 맞는 적절한 인프라 선택의 중요성을 깨닫게 해주었습니다.",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8060-8df0-c95ea5633053",
+          "type": "heading_3",
+          "has_children": false,
+          "heading_3": {
+            "rich_text": [
+              {
+                "plain_text": "3. 데이터 동기화 관련",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-803a-94dc-c8c34b3bf92c",
+          "type": "bulleted_list_item",
+          "has_children": false,
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "plain_text": "실시간성이 중요한 지하철 정보의 특성상, ",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "Open API의 호출 제한(Rate Limit)과 데이터 갱신 주기를 고려한 Polling 구조",
+                "href": null,
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              },
+              {
+                "plain_text": "를 채택했습니다. 단순히 데이터를 자주 가져오는 것에 그치지 않고, 시스템 리소스를 낭비하지 않으면서도 사용자에게 최신 정보를 유지할 수 있는 최적의 업데이트 간격을 설정할 수 있었습니다.",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80bc-8eb0-ded1eff31d51",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    "1": {
+      "ProjectName": "PET 분류 시스템",
+      "description": "임베디드 환경에서 캔, 플라스틱과 플라스틱의 구성요소를 분리하는 프로젝트 ",
+      "tag": [
+        "Edge AI",
+        "Computer Vision",
+        "Hailo"
+      ],
+      "status": "Completed",
+      "blocks": [
+        {
+          "id": "3426601c-5e93-809c-b14f-fb8135497c2f",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Overview",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80cf-a4ff-db24fc5dafd7",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-8074-b454-f8ad236698e7",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Content",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80f8-b725-c87c882ab988",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-807d-a1dc-de6d82a6f1bc",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Review",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    "2": {
+      "ProjectName": "얼굴 인식 도어락 시스템",
+      "description": "얼굴을 인식하여 도어락을 개폐하는 시스템",
+      "tag": [
+        "Edge AI",
+        "Computer Vision"
+      ],
+      "status": "Completed",
+      "blocks": [
+        {
+          "id": "3426601c-5e93-8072-b854-c77ce1ff4734",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Overview",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-806f-8412-f476a54a3635",
+          "type": "column_list",
+          "has_children": true,
+          "children": [
+            {
+              "id": "3426601c-5e93-80e4-8a30-de271d98db54",
+              "type": "column",
+              "has_children": true,
+              "children": [
+                {
+                  "id": "3426601c-5e93-8046-9e87-e31154ab96b4",
+                  "type": "image",
+                  "has_children": false,
+                  "image": {
+                    "name": "3426601c-5e93-8046-9e87-e31154ab96b4_image.png",
+                    "source_type": "file",
+                    "caption": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "3426601c-5e93-802b-a61e-ed44a58f5ca9",
+              "type": "column",
+              "has_children": true,
+              "children": [
+                {
+                  "id": "3426601c-5e93-802c-90a0-e6fa1d74524f",
+                  "type": "image",
+                  "has_children": false,
+                  "image": {
+                    "name": "3426601c-5e93-802c-90a0-e6fa1d74524f_image.png",
+                    "source_type": "file",
+                    "caption": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3426601c-5e93-803a-a474-c7591317facd",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80c7-8e0d-fb2228782dbb",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Content",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80c6-ad63-d5f89c6b2fbb",
+          "type": "image",
+          "has_children": false,
+          "image": {
+            "name": "3426601c-5e93-80c6-ad63-d5f89c6b2fbb_image.png",
+            "source_type": "file",
+            "caption": []
+          }
+        },
+        {
+          "id": "3426601c-5e93-808a-9035-c9f1a11b77a5",
+          "type": "paragraph",
+          "has_children": false,
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          }
+        },
+        {
+          "id": "3426601c-5e93-80e9-9257-c740921f8691",
+          "type": "heading_1",
+          "has_children": false,
+          "heading_1": {
+            "rich_text": [
+              {
+                "plain_text": "Review",
+                "href": null,
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                }
+              }
+            ],
+            "color": "default"
+          }
+        }
+      ]
+    },
+    "3": {
+      "ProjectName": "LabOps",
+      "description": "연구실에서 사용하기 위한 MLOps 플랫폼",
+      "tag": [
+        "MLOps",
+        "Web"
+      ],
+      "status": "In Progress",
+      "blocks": []
+    },
+    "4": {
+      "ProjectName": "배드민턴 분석 플랫폼",
+      "description": "아마추어를 위한 배드민턴 분석 플랫폼",
+      "tag": [
+        "Cloud",
+        "Computer Vision",
+        "Sports Data Analytics"
+      ],
+      "status": "In Progress",
+      "blocks": []
     }
   },
   "소개": {
@@ -248,9 +1378,18 @@
               "type": "image",
               "has_children": false,
               "image": {
-                "name": "my_image.jpg",
+                "name": "2bd6601c-5e93-807f-8dca-c0e54f0555a3_my_image.jpg",
                 "source_type": "file",
                 "caption": []
+              }
+            },
+            {
+              "id": "3426601c-5e93-80dc-a33e-f0a04641a66a",
+              "type": "paragraph",
+              "has_children": false,
+              "paragraph": {
+                "rich_text": [],
+                "color": "default"
               }
             }
           ]
@@ -267,7 +1406,29 @@
               "paragraph": {
                 "rich_text": [
                   {
-                    "plain_text": "저는 순천향대학교 컴퓨터소프트웨어공학과에 재학 중이며, 시스템 및 지능형 네트워크 연구실에서 학부 연구생으로 활동하고 있습니다. Edge AI, 컴퓨터 비전, NLP, MLOps와 같은 주제에 관심을 두고 공부하고 있습니다.",
+                    "plain_text": "저는 순천향대학교 컴퓨터소프트웨어공학과 4학년에 재학 중이며, 인공지능 네트워크 연구실(INSLAB)에서 학부 연구생으로 활동하고 있습니다. Edge AI, 컴퓨터 비전, MLOps와 같은 주제에 관심을 두고 공부하며, 국내외 컨퍼런스에 총 10편(해외 2편, 국내 8편)의 논문을 게재한 경험이 있습니다.",
+                    "href": null,
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    }
+                  }
+                ],
+                "color": "default"
+              }
+            },
+            {
+              "id": "3426601c-5e93-8071-8a66-e558f422431a",
+              "type": "paragraph",
+              "has_children": false,
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "plain_text": "현재는 쓰레기 봉투 분류 모델 고도화와 더불어, 연구 효율을 극대화하기 위한 '연구실을 위한 MLOps 플랫폼' 과 ‘아마추어를 위해 배드민턴 분석 플랫폼’을 개발하고 있습니다.",
                     "href": null,
                     "annotations": {
                       "bold": false,
@@ -355,7 +1516,7 @@
       "bulleted_list_item": {
         "rich_text": [
           {
-            "plain_text": "컴퓨터 비전",
+            "plain_text": "Computer Vision",
             "href": null,
             "annotations": {
               "bold": false,
@@ -371,28 +1532,6 @@
       }
     },
     "6": {
-      "id": "2ba6601c-5e93-8037-afbb-ec1139a8fb55",
-      "type": "bulleted_list_item",
-      "has_children": false,
-      "bulleted_list_item": {
-        "rich_text": [
-          {
-            "plain_text": "NLP",
-            "href": null,
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            }
-          }
-        ],
-        "color": "default"
-      }
-    },
-    "7": {
       "id": "2ba6601c-5e93-8004-b8ed-c4124c067260",
       "type": "bulleted_list_item",
       "has_children": false,
@@ -414,14 +1553,14 @@
         "color": "default"
       }
     },
-    "8": {
-      "id": "2ba6601c-5e93-8089-9b72-fd0aae068d40",
-      "type": "paragraph",
+    "7": {
+      "id": "3426601c-5e93-80f0-9c18-e8d3085e69c3",
+      "type": "bulleted_list_item",
       "has_children": false,
-      "paragraph": {
+      "bulleted_list_item": {
         "rich_text": [
           {
-            "plain_text": "작성중…",
+            "plain_text": "Sports Data Analytics",
             "href": null,
             "annotations": {
               "bold": false,
@@ -433,6 +1572,42 @@
             }
           }
         ],
+        "color": "default"
+      }
+    },
+    "8": {
+      "id": "3426601c-5e93-800b-81fb-fb222e57315c",
+      "type": "paragraph",
+      "has_children": false,
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    "9": {
+      "id": "3426601c-5e93-80fd-a1af-c6140a9d0500",
+      "type": "paragraph",
+      "has_children": false,
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    "10": {
+      "id": "3426601c-5e93-8050-8ea4-ec2435de51ac",
+      "type": "paragraph",
+      "has_children": false,
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    "11": {
+      "id": "3426601c-5e93-8045-b63b-c11908074b07",
+      "type": "paragraph",
+      "has_children": false,
+      "paragraph": {
+        "rich_text": [],
         "color": "default"
       }
     }
